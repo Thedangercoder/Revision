@@ -1,0 +1,17 @@
+body {
+  background-color: #FF5DA2;
+  text-align: center;
+
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #99DDCC;
+  font-size: 3rem;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: #99DDCC;
+}
